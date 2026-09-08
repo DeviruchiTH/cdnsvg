@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
 <svg id="demoSVG" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2461.9 3533.8">
   <defs>
     <clipPath id="clippath">
@@ -10529,9 +10527,9 @@
       <g id="remote_1" data-name="remote 1">
         <path d="M800.1,936.3l-185.6-8.3c-15.7-.7-30.4-13.9-32.8-29.5l-3-19.8c-2.4-15.6,8.5-27.6,24.2-26.9l185.6,8.3c15.7.7,30.4,13.9,32.8,29.5l3,19.8c2.4,15.6-8.5,27.6-24.2,26.9Z" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
         <g isolation="isolate">
-          <text transform="translate(609.3 905) rotate(2.6) scale(1) skewX(11)" fill="#002a3a" font-family="ArialMT, Arial" font-size="37.7" isolation="isolate"><tspan x="0" y="0">Remote</tspan></text>
+          <text transform="translate(609.3 905) rotate(2.6) scale(1) skewX(11)" fill="#002a3a" font-family="ArialMT, Arial" font-size="37.7" isolation="isolate"><tspan x="0" y="0" id="G1_TEXT">Remote</tspan></text>
         </g>
-        <path d="M802.2,899.7c1.6,10.3-5.6,18.3-16,17.8s-20.1-9.2-21.7-19.5c-1.6-10.3,5.6-18.3,16-17.8s20.1,9.2,21.7,19.5Z" fill="#00addb" stroke-width="0"/>
+        <path id="G1_STATUS" d="M802.2,899.7c1.6,10.3-5.6,18.3-16,17.8s-20.1-9.2-21.7-19.5c-1.6-10.3,5.6-18.3,16-17.8s20.1,9.2,21.7,19.5Z" fill="#00addb" stroke-width="0"/>
       </g>
       <!-- <g id="remote_2" data-name="remote 2">
         <path d="M1348.9,963.2l-185.6-8.3c-15.7-.7-30.4-13.9-32.8-29.5l-3-19.8c-2.4-15.6,8.5-27.6,24.2-26.9l185.6,8.3c15.7.7,30.4,13.9,32.8,29.5l3,19.8c2.4,15.6-8.5,27.6-24.2,26.9Z" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
