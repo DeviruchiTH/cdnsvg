@@ -10349,7 +10349,7 @@
     <text transform="translate(3380.7 399) rotate(6.3) scale(.9 1) skewX(7.1)" display="none" fill="#fff" font-family="ArialUnicodeMS, &apos;Arial Unicode MS&apos;" font-size="145"><tspan x="0" y="0">ปตร.ลำไอ้งอน</tspan></text>
     <text transform="translate(3452.2 406.9) rotate(6.3) scale(.9 1) skewX(7.1)" fill="#fff" font-family="ArialUnicodeMS, &apos;Arial Unicode MS&apos;" font-size="145"><tspan x="0" y="0">ปตร.บางอ้อ</tspan></text>
   </g> -->
-  <text transform="translate(3452.2 406.9) rotate(6.3) scale(.9 1) skewX(7.1)" fill="#fff" font-family="ArialUnicodeMS, &apos;Arial Unicode MS&apos;" font-size="145"><tspan x="0" y="0" id="stationname">ปตร.บางอ้อ</tspan></text>
+  <text transform="translate(3452.2 406.9) rotate(6.3) scale(.9 1) skewX(7.1)" fill="#fff" font-family="ArialUnicodeMS, &apos;Arial Unicode MS&apos;" font-size="145"><tspan x="0" y="0" id="stationname"></tspan></text>
   <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c002 79.a6a6396, 2024/03/12-07:48:23        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
