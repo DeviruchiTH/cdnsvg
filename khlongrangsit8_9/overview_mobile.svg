@@ -5730,9 +5730,9 @@
   </g>
   <g id="Layer_17" data-name="Layer 17">
     <rect width="1182.8" height="248.5" x="214.9" y="2753" fill="#0b2023" stroke-width="0" opacity=".7" rx="99" ry="99" />
-    <text fill="#fff" font-family="ArialUnicodeMS, 'Arial Unicode MS'" font-size="68.2" transform="matrix(1.1 0 0 1 269.9 2900.6)" />
+    <text fill="#fff" font-family="ArialUnicodeMS, 'Arial Unicode MS'" font-size="68.2" transform="matrix(1.1 0 0 1 269.9 2900.6)" id="Rain15" />
     <rect width="1182.8" height="248.5" x="214.9" y="3043.5" fill="#0b2023" stroke-width="0" opacity=".7" rx="99" ry="99" />
-    <text fill="#fff" font-family="ArialUnicodeMS, 'Arial Unicode MS'" font-size="68.2" transform="matrix(1.1 0 0 1 309.8 3191.1)" />
+    <text fill="#fff" font-family="ArialUnicodeMS, 'Arial Unicode MS'" font-size="68.2" transform="matrix(1.1 0 0 1 309.8 3191.1)" id="RainAcc" />
   </g>
   <path id="Layer_16" fill="none" stroke-width="0" d="M0-2.6h2461.9v3533.8H0z" data-name="Layer 16" display="none" />
 </svg>

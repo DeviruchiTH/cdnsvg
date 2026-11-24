@@ -7428,9 +7428,9 @@
   </g>
   <g id="Layer_16" data-name="Layer 16">
     <rect width="1637" height="344" x="708.8" y="398.5" fill="#0b2023" stroke-width="0" opacity=".7" rx="99" ry="99" />
-    <text fill="#fff" font-family="ArialUnicodeMS, 'Arial Unicode MS'" font-size="94.4" transform="matrix(1.1 0 0 1 784.9 602.8)" />
+    <text fill="#fff" font-family="ArialUnicodeMS, 'Arial Unicode MS'" font-size="94.4" transform="matrix(1.1 0 0 1 784.9 602.8)" id="Rain15" />
     <rect width="1637" height="344" x="708.8" y="800.6" fill="#0b2023" stroke-width="0" opacity=".7" rx="99" ry="99" />
-    <text fill="#fff" font-family="ArialUnicodeMS, 'Arial Unicode MS'" font-size="94.4" transform="matrix(1.1 0 0 1 840.1 1004.8)" />
+    <text fill="#fff" font-family="ArialUnicodeMS, 'Arial Unicode MS'" font-size="94.4" transform="matrix(1.1 0 0 1 840.1 1004.8)" id="RainAcc" />
   </g>
   <path id="Layer_15" fill="none" stroke-width="0" d="M0 .3h7200V3539H0z" data-name="Layer 15" />
 </svg>
